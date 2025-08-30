@@ -1,0 +1,14 @@
+C:\Users\storm\OneDrive\Documents\PTUDDesktop\2312704_Bai1\2312704_Bai1\bin\Debug\2312704_Bai1.exe.config
+C:\Users\storm\OneDrive\Documents\PTUDDesktop\2312704_Bai1\2312704_Bai1\bin\Debug\2312704_Bai1.exe
+C:\Users\storm\OneDrive\Documents\PTUDDesktop\2312704_Bai1\2312704_Bai1\bin\Debug\2312704_Bai1.pdb
+C:\Users\storm\OneDrive\Documents\PTUDDesktop\2312704_Bai1\2312704_Bai1\obj\Debug\2312704_Bai1.csproj.AssemblyReference.cache
+C:\Users\storm\OneDrive\Documents\PTUDDesktop\2312704_Bai1\2312704_Bai1\obj\Debug\_2312704_Bai1.frmBai1.resources
+C:\Users\storm\OneDrive\Documents\PTUDDesktop\2312704_Bai1\2312704_Bai1\obj\Debug\_2312704_Bai1.frmChinh.resources
+C:\Users\storm\OneDrive\Documents\PTUDDesktop\2312704_Bai1\2312704_Bai1\obj\Debug\_2312704_Bai1.Properties.Resources.resources
+C:\Users\storm\OneDrive\Documents\PTUDDesktop\2312704_Bai1\2312704_Bai1\obj\Debug\2312704_Bai1.csproj.GenerateResource.cache
+C:\Users\storm\OneDrive\Documents\PTUDDesktop\2312704_Bai1\2312704_Bai1\obj\Debug\2312704_Bai1.csproj.CoreCompileInputs.cache
+C:\Users\storm\OneDrive\Documents\PTUDDesktop\2312704_Bai1\2312704_Bai1\obj\Debug\2312704_Bai1.exe
+C:\Users\storm\OneDrive\Documents\PTUDDesktop\2312704_Bai1\2312704_Bai1\obj\Debug\2312704_Bai1.pdb
+C:\Users\storm\OneDrive\Documents\PTUDDesktop\2312704_Bai1\2312704_Bai1\obj\Debug\2312704_Bai1.exe.config
+C:\Users\storm\OneDrive\Documents\PTUDDesktop\2312704_Bai1\2312704_Bai1\obj\Debug\_2312704_Bai1.frmBai2.resources
+C:\Users\storm\OneDrive\Documents\PTUDDesktop\2312704_Bai1\2312704_Bai1\obj\Debug\_2312704_Bai1.frmBai3.resources
