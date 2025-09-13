@@ -1,0 +1,11 @@
+C:\Users\storm\OneDrive\Documents\PTUDDesktop\LayThongTinXoSo\LayThongTinXoSo\obj\Debug\LayThongTinXoSo.csproj.AssemblyReference.cache
+C:\Users\storm\OneDrive\Documents\PTUDDesktop\LayThongTinXoSo\LayThongTinXoSo\obj\Debug\LayThongTinXoSo.Form1.resources
+C:\Users\storm\OneDrive\Documents\PTUDDesktop\LayThongTinXoSo\LayThongTinXoSo\obj\Debug\LayThongTinXoSo.Properties.Resources.resources
+C:\Users\storm\OneDrive\Documents\PTUDDesktop\LayThongTinXoSo\LayThongTinXoSo\obj\Debug\LayThongTinXoSo.csproj.GenerateResource.cache
+C:\Users\storm\OneDrive\Documents\PTUDDesktop\LayThongTinXoSo\LayThongTinXoSo\obj\Debug\LayThongTinXoSo.csproj.CoreCompileInputs.cache
+C:\Users\storm\OneDrive\Documents\PTUDDesktop\LayThongTinXoSo\LayThongTinXoSo\bin\Debug\LayThongTinXoSo.exe.config
+C:\Users\storm\OneDrive\Documents\PTUDDesktop\LayThongTinXoSo\LayThongTinXoSo\bin\Debug\LayThongTinXoSo.exe
+C:\Users\storm\OneDrive\Documents\PTUDDesktop\LayThongTinXoSo\LayThongTinXoSo\bin\Debug\LayThongTinXoSo.pdb
+C:\Users\storm\OneDrive\Documents\PTUDDesktop\LayThongTinXoSo\LayThongTinXoSo\obj\Debug\LayThongTinXoSo.exe
+C:\Users\storm\OneDrive\Documents\PTUDDesktop\LayThongTinXoSo\LayThongTinXoSo\obj\Debug\LayThongTinXoSo.pdb
+C:\Users\storm\OneDrive\Documents\PTUDDesktop\LayThongTinXoSo\LayThongTinXoSo\obj\Debug\LayThongTinXoSo.exe.config
