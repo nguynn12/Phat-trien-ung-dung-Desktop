@@ -1,0 +1,4 @@
+2110001	Nguyễn Văn	An	05/12/2001	123456789	123 Lê Lợi, Sài Gòn	Nam	CTK45	0909123456	Mạng máy tính,Lập trình CSDL,Lập trình mạng,Phương pháp NCKH,Lập trình trên thiết bị di động
+2110002	Trần Thị	Bích	08/20/2001	987654321	45 Nguyễn Huệ, Sài Gòn	Nữ	CTK45	0912345678	Hệ điều hành,Lập trình CSDL,Đồ án cơ sở,Phương pháp NCKH,Lập trình trên thiết bị di động,An toàn và bảo mật hệ thống
+2210003	Lê Hoàng	Minh	03/15/2002	456789123	78 Trần Hưng Đạo, Đà Nẵng	Nam	CTK46	0934567890	Mạng máy tính,Hệ điều hành,Lập trình mạng,Đồ án cơ sở,Lập trình trên thiết bị di động
+2210004	Phạm Thị	Lan	11/30/2002	321654987	12 Hai Bà Trưng, Huế	Nữ	CTK46	0945678901	Lập trình CSDL,Lập trình mạng,Phương pháp NCKH,Lập trình trên thiết bị di động,An toàn và bảo mật hệ thống

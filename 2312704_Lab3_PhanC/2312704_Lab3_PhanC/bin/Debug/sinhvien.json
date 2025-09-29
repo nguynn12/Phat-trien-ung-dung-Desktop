@@ -1,0 +1,36 @@
+[
+  {
+    "MSSV": "2310001",
+    "HoTenLot": "Nguyen Van",
+    "Ten": "An",
+    "NgaySinh": "2003-05-12",
+    "CMND": "123456789",
+    "DiaChi": "Hanoi",
+    "GioiTinh": "Nam",
+    "Lop": "CTK47",
+    "SDT": "0967321342",
+    "MonHoc": [
+      "Mạng máy tính",
+      "Hệ điều hành",
+      "Lập trình CSDL",
+      "Lập trình mạng"
+    ]
+  },
+  {
+    "MSSV": "2310002",
+    "HoTenLot": "Tran Thi",
+    "Ten": "Binh",
+    "NgaySinh": "2004-09-20",
+    "CMND": "987654321",
+    "DiaChi": "HCM",
+    "GioiTinh": "Nữ",
+    "Lop": "HSK48",
+    "SDT": "0988123456",
+    "MonHoc": [
+      "Đồ án cơ sở",
+      "Phương pháp NCKH",
+      "Lập trình trên thiết bị di động",
+      "An toàn và bảo mật hệ thống"
+    ]
+  }
+]
