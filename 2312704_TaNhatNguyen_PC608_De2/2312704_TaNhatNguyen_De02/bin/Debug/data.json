@@ -1,0 +1,23 @@
+[
+  {
+    "MaNCC": "1",
+    "TenNCC": "Nguyen",
+    "DiaChi": "20 PDP",
+    "SDT": "0982736171",
+    "MoTa": "20 hàng"
+  },
+  {
+    "MaNCC": "2",
+    "TenNCC": "Minh",
+    "DiaChi": "12 Le Loi",
+    "SDT": "0271273578",
+    "MoTa": "15 hàng"
+  },
+  {
+    "MaNCC": "3",
+    "TenNCC": "Phuong",
+    "DiaChi": "29 Tran Phu",
+    "SDT": "0982718283",
+    "MoTa": "30 hàng"
+  }
+]
