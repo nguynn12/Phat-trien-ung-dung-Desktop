@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSinhVien xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<SinhVien>
+		<MSSV>2310001</MSSV>
+		<HoTenLot>Nguyen Van</HoTenLot>
+		<Ten>An</Ten>
+		<NgaySinh>2003-05-12</NgaySinh>
+		<CMND>123456789</CMND>
+		<DiaChi>Hanoi</DiaChi>
+		<GioiTinh>true</GioiTinh>
+		<Lop>CTK47</Lop>
+		<SDT>0967321342</SDT>
+		<MonHoc>
+			<string>Mạng máy tính</string>
+			<string>Hệ điều hành</string>
+			<string>Lập trình CSDL</string>
+			<string>Lập trình mạng</string>
+		</MonHoc>
+	</SinhVien>
+	<SinhVien>
+		<MSSV>2310002</MSSV>
+		<HoTenLot>Tran Thi</HoTenLot>
+		<Ten>Binh</Ten>
+		<NgaySinh>2004-09-20</NgaySinh>
+		<CMND>987654321</CMND>
+		<DiaChi>HCM</DiaChi>
+		<GioiTinh>false</GioiTinh>
+		<Lop>HSK48</Lop>
+		<SDT>0988123456</SDT>
+		<MonHoc>
+			<string>Đồ án cơ sở</string>
+			<string>Phương pháp NCKH</string>
+			<string>Lập trình trên thiết bị di động</string>
+			<string>An toàn và bảo mật hệ thống</string>
+		</MonHoc>
+	</SinhVien>
+</ArrayOfSinhVien>

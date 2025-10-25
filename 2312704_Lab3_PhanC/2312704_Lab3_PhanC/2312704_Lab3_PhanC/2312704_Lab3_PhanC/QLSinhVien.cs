@@ -88,79 +88,142 @@ namespace _2312704_Lab3_PhanC
 
         public void Xoa(object obj, SoSanh ss)
         {
-            int i = dsSinhVien.Count - 1;
+            //int i = dsSinhVien.Count - 1;
 
-            for (; i >= 0; i--)
+            //for (; i >= 0; i--)
 
-                if (ss(obj, this[i]) == 0)
+            //    if (ss(obj, this[i]) == 0)
 
-                    this.dsSinhVien.RemoveAt(i);
+            //        this.dsSinhVien.RemoveAt(i);
+
+            dsSinhVien.RemoveAll(sv => ss(obj, sv) == 0);
         }
 
         public void GhiFile(string filename)
         {
-            using (StreamWriter sw = new StreamWriter(
-                new FileStream(filename, FileMode.Create))) // Create: ghi đè
-            {
-                foreach (SinhVien sv in dsSinhVien)
+            //using (StreamWriter sw = new StreamWriter(
+            //    new FileStream(filename, FileMode.Create))) // Create: ghi đè
+            //{
+            //    foreach (SinhVien sv in dsSinhVien)
+            //    {
+            //        string gioiTinh = sv.GioiTinh ? "Nam" : "Nữ";
+            //        string monHoc = string.Join(",", sv.MonHoc);
+
+            //        string line = string.Join("\t", new string[]
+            //        {
+            //            sv.MSSV,
+            //            sv.HoTenLot,
+            //            sv.Ten,
+            //            sv.NgaySinh.ToString("MM/dd/yyyy"),
+            //            sv.CMND,
+            //            sv.DiaChi,
+            //            gioiTinh,
+            //            sv.Lop,
+            //            sv.SDT,
+            //            monHoc
+            //        });
+
+            //        sw.WriteLine(line);
+            //    }
+            //}
+
+            File.WriteAllLines(filename, dsSinhVien.Select(sv =>
+            string.Join("\t", new string[]
                 {
-                    string gioiTinh = sv.GioiTinh ? "Nam" : "Nữ";
-                    string monHoc = string.Join(",", sv.MonHoc);
-
-                    string line = string.Join("\t", new string[]
-                    {
-                        sv.MSSV,
-                        sv.HoTenLot,
-                        sv.Ten,
-                        sv.NgaySinh.ToString("MM/dd/yyyy"),
-                        sv.CMND,
-                        sv.DiaChi,
-                        gioiTinh,
-                        sv.Lop,
-                        sv.SDT,
-                        monHoc
-                    });
-
-                    sw.WriteLine(line);
-                }
-            }
+                    sv.MSSV,
+                    sv.HoTenLot,
+                    sv.Ten,
+                    sv.NgaySinh.ToString("MM/dd/yyyy"),
+                    sv.CMND,
+                    sv.DiaChi,
+                    sv.GioiTinh ? "Nam" : "Nữ",
+                    sv.Lop,
+                    sv.SDT,
+                    string.Join(",", sv.MonHoc)
+                })
+            ));
         }
 
         public void DocTuFile(string filename)
         {
-            string t;
-            string[] s;
-            SinhVien sv;
-            using (StreamReader sr = new StreamReader(
-                new FileStream(filename, FileMode.Open))) 
+            //string t;
+            //string[] s;
+            //SinhVien sv;
+            //using (StreamReader sr = new StreamReader(
+            //    new FileStream(filename, FileMode.Open))) 
+            //{
+            //    while ((t = sr.ReadLine())!= null)
+            //    {
+            //        s = t.Split('\t');
+            //        sv = new SinhVien();
+            //        sv.MSSV = s[0];
+            //        sv.HoTenLot = s[1];
+            //        sv.Ten = s[2];
+            //        sv.NgaySinh = DateTime.Parse(s[3]);
+            //        sv.CMND = s[4];
+            //        sv.DiaChi = s[5];
+
+            //        sv.GioiTinh = true;
+            //        if (s[6] == "Nữ")
+            //            sv.GioiTinh = false;
+
+            //        sv.Lop = s[7];
+            //        sv.SDT = s[8];
+
+            //        string[] monhoc = s[9].Split(',');
+
+            //        foreach (string mh in monhoc)
+
+            //            sv.MonHoc.Add(mh);
+
+            //        Them(sv);
+            //    }
+            //}
+
+            foreach (var line in File.ReadLines(filename))
             {
-                while ((t = sr.ReadLine())!= null)
+                var s = line.Split('\t');
+                var sv = new SinhVien
                 {
-                    s = t.Split('\t');
-                    sv = new SinhVien();
-                    sv.MSSV = s[0];
-                    sv.HoTenLot = s[1];
-                    sv.Ten = s[2];
-                    sv.NgaySinh = DateTime.Parse(s[3]);
-                    sv.CMND = s[4];
-                    sv.DiaChi = s[5];
-
-                    sv.GioiTinh = true;
-                    if (s[6] == "Nữ")
-                        sv.GioiTinh = false;
-
-                    sv.Lop = s[7];
-                    sv.SDT = s[8];
-
-                    string[] monhoc = s[9].Split(',');
-
-                    foreach (string mh in monhoc)
-
-                        sv.MonHoc.Add(mh);
-
-                    Them(sv);
-                }
+                    MSSV = s[0],
+                    HoTenLot = s[1],
+                    Ten = s[2],
+                    NgaySinh = DateTime.Parse(s[3]),
+                    CMND = s[4],
+                    DiaChi = s[5],
+                    GioiTinh = s[6] != "Nữ",
+                    Lop = s[7],
+                    SDT = s[8],
+                    MonHoc = s[9].Split(',').Select(mh => mh.Trim()).ToList()
+                };
+                Them(sv);
             }
+        }
+
+        public static List<SinhVien> DocFileTxt(string path)
+        {
+            var ds = new List<SinhVien>();
+
+            foreach (var line in File.ReadLines(path))
+            {
+                var s = line.Split('\t');
+                var sv = new SinhVien
+                {
+                    MSSV = s[0],
+                    HoTenLot = s[1],
+                    Ten = s[2],
+                    NgaySinh = DateTime.Parse(s[3]),
+                    CMND = s[4],
+                    DiaChi = s[5],
+                    GioiTinh = s[6] == "Nam",
+                    Lop = s[7],
+                    SDT = s[8],
+                    MonHoc = s[9].Split(',').Select(mh => mh.Trim()).ToList()
+                };
+                ds.Add(sv);
+            }
+
+            return ds;
         }
 
         public string TaoMSSV(string lop, string cccNhap)

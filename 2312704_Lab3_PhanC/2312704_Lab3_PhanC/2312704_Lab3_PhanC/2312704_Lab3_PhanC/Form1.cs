@@ -192,7 +192,6 @@ namespace _2312704_Lab3_PhanC
             }
 
             // SDT phải 10 chữ số
-
             // Lấy ra số điện thoại chỉ gồm chữ số (do maskedtexbox có dấu chấm)
             string rawSDT = new string(mtxtSDT.Text.Where(char.IsDigit).ToArray());
             if (rawSDT.Length != 10)
@@ -212,7 +211,7 @@ namespace _2312704_Lab3_PhanC
         {
             qlsv = new QLSinhVien();
 
-            qlsv.DocTuFile("dssv.txt");
+            qlsv.DocTuFile("dssvtxt.txt");
 
             LoadListView();
         }
@@ -248,7 +247,7 @@ namespace _2312704_Lab3_PhanC
             else
             {
                 this.qlsv.Them(sv);
-                this.qlsv.GhiFile("dssv.txt");
+                this.qlsv.GhiFile("dssvtxt.txt");
                 this.LoadListView();
             }
         }
@@ -322,7 +321,7 @@ namespace _2312704_Lab3_PhanC
 
             if (kqsua)
             {
-                this.qlsv.GhiFile("dssv.txt");
+                this.qlsv.GhiFile("dssvtxt.txt");
                 this.LoadListView();
             }
             #endregion
@@ -358,7 +357,7 @@ namespace _2312704_Lab3_PhanC
                     }
                 }
 
-                qlsv.GhiFile("dssv.txt");
+                qlsv.GhiFile("dssvtxt.txt");
                 LoadListView();
             }
         }
@@ -384,39 +383,39 @@ namespace _2312704_Lab3_PhanC
 
         private void btnNhapFile_Click(object sender, EventArgs e)
         {
-            //OpenFileDialog ofd = new OpenFileDialog();
-            //ofd.Filter = "Tất cả (*.txt;*.json;*.xml)|*.txt;*.json;*.xml|Text files (*.txt)|*.txt|JSON files (*.json)|*.json|XML files (*.xml)|*.xml";
+            OpenFileDialog ofd = new OpenFileDialog();
+            ofd.Filter = "Tất cả (*.txt;*.json;*.xml)|*.txt;*.json;*.xml|Text files (*.txt)|*.txt|JSON files (*.json)|*.json|XML files (*.xml)|*.xml";
 
-            //if (ofd.ShowDialog() == DialogResult.OK)
-            //{
-            //    string path = ofd.FileName;
-            //    string ext = Path.GetExtension(path).ToLower();
+            if (ofd.ShowDialog() == DialogResult.OK)
+            {
+                string path = ofd.FileName;
+                string ext = Path.GetExtension(path).ToLower();
 
-            //    txtFilePath.Text = path;
+                txtFilePath.Text = path;
 
-            //    switch (ext)
-            //    {
-            //        case ".txt":
-            //            qlsv.dsSinhVien.Clear(); // Xóa danh sách cũ
-            //            qlsv.DocTuFile(path);    // Non-static, ghi vào dsSinhVien
-            //            break;
+                switch (ext)
+                {
+                    case ".txt":
+                        qlsv.dsSinhVien.Clear(); // Xóa danh sách cũ
+                        qlsv.DocTuFile(path);    // Non-static, ghi vào dsSinhVien
+                        break;
 
-            //        case ".json":
-            //            qlsv.dsSinhVien = QLSinhVien.DocFileJSON(path); // static, trả về List<SinhVien>
-            //            break;
+                    case ".json":
+                        qlsv.dsSinhVien = QLSinhVien.DocFileJSON(path); // static, trả về List<SinhVien>
+                        break;
 
-            //        case ".xml":
-            //            qlsv.dsSinhVien = QLSinhVien.DocFileXML(path); // static, trả về List<SinhVien>
-            //            break;
+                    case ".xml":
+                        qlsv.dsSinhVien = QLSinhVien.DocFileXML(path); // static, trả về List<SinhVien>
+                        break;
 
-            //        default:
-            //            MessageBox.Show("Định dạng file không được hỗ trợ!", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
-            //            return;
-            //    }
+                    default:
+                        MessageBox.Show("Định dạng file không được hỗ trợ!", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        return;
+                }
 
-            //    // Hiển thị danh sách lên ListView
-            //    LoadListView();
-            //}
+                // Hiển thị danh sách lên ListView
+                LoadListView();
+            }
         }
     }
 }

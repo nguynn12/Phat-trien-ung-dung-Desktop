@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSinhVien xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SinhVien>
+    <MSSV>2310310</MSSV>
+    <Ho>Pham Thi</Ho>
+    <Ten>Lan</Ten>
+    <Ngaysinh>2003-12-01T00:00:00</Ngaysinh>
+    <Lop>CTK47C</Lop>
+    <Gioitinh>Nữ</Gioitinh>
+    <CMND>852963741</CMND>
+    <SDT>0937.777.888</SDT>
+    <Diachi>Quang Nam</Diachi>
+    <MonHoc>
+      <TenMon>Lập trình CSDL</TenMon>
+      <TenMon>Hệ điều hành</TenMon>
+    </MonHoc>
+  </SinhVien>
+  <SinhVien>
+    <MSSV>2310987</MSSV>
+    <Ho>Vo</Ho>
+    <Ten>Hung</Ten>
+    <Ngaysinh>2003-09-29T00:00:00</Ngaysinh>
+    <Lop>CTK47C</Lop>
+    <Gioitinh>Nam</Gioitinh>
+    <CMND>123123123</CMND>
+    <SDT>0123.123.123</SDT>
+    <Diachi>Da Lat</Diachi>
+    <MonHoc>
+      <TenMon>Mạng máy tính</TenMon>
+      <TenMon>Lập trình mạng</TenMon>
+    </MonHoc>
+  </SinhVien>
+  <SinhVien>
+    <MSSV>2410212</MSSV>
+    <Ho>Nguyen Pham</Ho>
+    <Ten>Phu</Ten>
+    <Ngaysinh>2025-09-29T00:00:00</Ngaysinh>
+    <Lop>CTK48A</Lop>
+    <Gioitinh>Nam</Gioitinh>
+    <CMND>123123123</CMND>
+    <SDT>1231.231.231</SDT>
+    <Diachi>Dak Lak</Diachi>
+    <MonHoc>
+      <TenMon>Hệ điều hành</TenMon>
+      <TenMon>An toàn bảo mật</TenMon>
+    </MonHoc>
+  </SinhVien>
+</ArrayOfSinhVien>

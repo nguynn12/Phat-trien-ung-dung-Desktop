@@ -6,7 +6,7 @@
     "NgaySinh": "2003-05-12",
     "CMND": "123456789",
     "DiaChi": "Hanoi",
-    "GioiTinh": "Nam",
+    "GioiTinh": true,
     "Lop": "CTK47",
     "SDT": "0967321342",
     "MonHoc": [
@@ -23,7 +23,7 @@
     "NgaySinh": "2004-09-20",
     "CMND": "987654321",
     "DiaChi": "HCM",
-    "GioiTinh": "Nữ",
+    "GioiTinh": false,
     "Lop": "HSK48",
     "SDT": "0988123456",
     "MonHoc": [

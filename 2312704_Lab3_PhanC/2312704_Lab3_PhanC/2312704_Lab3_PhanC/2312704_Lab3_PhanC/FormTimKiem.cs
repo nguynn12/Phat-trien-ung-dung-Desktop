@@ -34,7 +34,7 @@ namespace _2312704_Lab3_PhanC
             else if (rdTheoTen.Checked)
                 lblTimSV.Text = "Tên:";
 
-            else if (rdTheoTen.Checked)
+            else if (rdTheoLop.Checked)
                 lblTimSV.Text = "Lớp:";
         }
 

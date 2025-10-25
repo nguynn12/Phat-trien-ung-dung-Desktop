@@ -1,0 +1,3 @@
+2310001	Nguyen Van	An	05/12/2003	123456789	Hanoi	Nam	CTK47	0967321342	Mạng máy tính,Hệ điều hành,Lập trình CSDL,Lập trình mạng
+2310008	Nguyen Van	An	05/12/2003	123456789	Hanoi	Nam	CTK47	0967321342	Mạng máy tính,Hệ điều hành,Lập trình mạng,Lập trình trên thiết bị di động,An toàn và bảo mật hệ thống
+2310009	Nguyen Van	An	05/12/2003	123456789	Hanoi	Nam	CTK47	0967321342	Mạng máy tính,Hệ điều hành,Lập trình CSDL,Lập trình mạng
