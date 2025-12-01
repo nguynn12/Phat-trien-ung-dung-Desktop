@@ -1,0 +1,11 @@
+D:\Học tập\Phát triển ứng dụng desktop\QuanLyDangKyHocPhan\QuanLyDangKyHocPhan\bin\Debug\QuanLyDangKyHocPhan.exe.config
+D:\Học tập\Phát triển ứng dụng desktop\QuanLyDangKyHocPhan\QuanLyDangKyHocPhan\bin\Debug\QuanLyDangKyHocPhan.exe
+D:\Học tập\Phát triển ứng dụng desktop\QuanLyDangKyHocPhan\QuanLyDangKyHocPhan\bin\Debug\QuanLyDangKyHocPhan.pdb
+D:\Học tập\Phát triển ứng dụng desktop\QuanLyDangKyHocPhan\QuanLyDangKyHocPhan\obj\Debug\QuanLyDangKyHocPhan.csproj.AssemblyReference.cache
+D:\Học tập\Phát triển ứng dụng desktop\QuanLyDangKyHocPhan\QuanLyDangKyHocPhan\obj\Debug\QuanLyDangKyHocPhan.frmSinhVien.resources
+D:\Học tập\Phát triển ứng dụng desktop\QuanLyDangKyHocPhan\QuanLyDangKyHocPhan\obj\Debug\QuanLyDangKyHocPhan.Properties.Resources.resources
+D:\Học tập\Phát triển ứng dụng desktop\QuanLyDangKyHocPhan\QuanLyDangKyHocPhan\obj\Debug\QuanLyDangKyHocPhan.csproj.GenerateResource.cache
+D:\Học tập\Phát triển ứng dụng desktop\QuanLyDangKyHocPhan\QuanLyDangKyHocPhan\obj\Debug\QuanLyDangKyHocPhan.csproj.CoreCompileInputs.cache
+D:\Học tập\Phát triển ứng dụng desktop\QuanLyDangKyHocPhan\QuanLyDangKyHocPhan\obj\Debug\QuanLyDangKyHocPhan.exe
+D:\Học tập\Phát triển ứng dụng desktop\QuanLyDangKyHocPhan\QuanLyDangKyHocPhan\obj\Debug\QuanLyDangKyHocPhan.pdb
+D:\Học tập\Phát triển ứng dụng desktop\QuanLyDangKyHocPhan\QuanLyDangKyHocPhan\obj\Debug\QuanLyDangKyHocPhan.exe.config

@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\storm\\Downloads\\QuanLyDangKyHocPhan\\QuanLyDangKyHocPhan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7BC5CB-D091-4A9A-8840-DF0AD24E460E}|QuanLyDangKyHocPhan\\QuanLyDangKyHocPhan.csproj|c:\\users\\storm\\downloads\\quanlydangkyhocphan\\quanlydangkyhocphan\\quanlydangkyhocphan\\frmqlmonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7BC5CB-D091-4A9A-8840-DF0AD24E460E}|QuanLyDangKyHocPhan\\QuanLyDangKyHocPhan.csproj|solutionrelative:quanlydangkyhocphan\\frmqlmonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7BC5CB-D091-4A9A-8840-DF0AD24E460E}|QuanLyDangKyHocPhan\\QuanLyDangKyHocPhan.csproj|C:\\Users\\storm\\Downloads\\QuanLyDangKyHocPhan\\QuanLyDangKyHocPhan\\quanlydangkyhocphan\\frmsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7BC5CB-D091-4A9A-8840-DF0AD24E460E}|QuanLyDangKyHocPhan\\QuanLyDangKyHocPhan.csproj|solutionrelative:quanlydangkyhocphan\\frmsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7BC5CB-D091-4A9A-8840-DF0AD24E460E}|QuanLyDangKyHocPhan\\QuanLyDangKyHocPhan.csproj|C:\\Users\\storm\\Downloads\\QuanLyDangKyHocPhan\\QuanLyDangKyHocPhan\\quanlydangkyhocphan\\frmsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D7BC5CB-D091-4A9A-8840-DF0AD24E460E}|QuanLyDangKyHocPhan\\QuanLyDangKyHocPhan.csproj|solutionrelative:quanlydangkyhocphan\\frmsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7BC5CB-D091-4A9A-8840-DF0AD24E460E}|QuanLyDangKyHocPhan\\QuanLyDangKyHocPhan.csproj|C:\\Users\\storm\\Downloads\\QuanLyDangKyHocPhan\\QuanLyDangKyHocPhan\\quanlydangkyhocphan\\frmqlmonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D7BC5CB-D091-4A9A-8840-DF0AD24E460E}|QuanLyDangKyHocPhan\\QuanLyDangKyHocPhan.csproj|solutionrelative:quanlydangkyhocphan\\frmqlmonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7BC5CB-D091-4A9A-8840-DF0AD24E460E}|QuanLyDangKyHocPhan\\QuanLyDangKyHocPhan.csproj|C:\\Users\\storm\\Downloads\\QuanLyDangKyHocPhan\\QuanLyDangKyHocPhan\\quanlydangkyhocphan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7BC5CB-D091-4A9A-8840-DF0AD24E460E}|QuanLyDangKyHocPhan\\QuanLyDangKyHocPhan.csproj|solutionrelative:quanlydangkyhocphan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7BC5CB-D091-4A9A-8840-DF0AD24E460E}|QuanLyDangKyHocPhan\\QuanLyDangKyHocPhan.csproj|C:\\Users\\storm\\Downloads\\QuanLyDangKyHocPhan\\QuanLyDangKyHocPhan\\quanlydangkyhocphan\\frmmonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D7BC5CB-D091-4A9A-8840-DF0AD24E460E}|QuanLyDangKyHocPhan\\QuanLyDangKyHocPhan.csproj|solutionrelative:quanlydangkyhocphan\\frmmonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7BC5CB-D091-4A9A-8840-DF0AD24E460E}|QuanLyDangKyHocPhan\\QuanLyDangKyHocPhan.csproj|C:\\Users\\storm\\Downloads\\QuanLyDangKyHocPhan\\QuanLyDangKyHocPhan\\quanlydangkyhocphan\\frmmonhoc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7BC5CB-D091-4A9A-8840-DF0AD24E460E}|QuanLyDangKyHocPhan\\QuanLyDangKyHocPhan.csproj|solutionrelative:quanlydangkyhocphan\\frmmonhoc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7BC5CB-D091-4A9A-8840-DF0AD24E460E}|QuanLyDangKyHocPhan\\QuanLyDangKyHocPhan.csproj|C:\\Users\\storm\\Downloads\\QuanLyDangKyHocPhan\\QuanLyDangKyHocPhan\\quanlydangkyhocphan\\frmmonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7BC5CB-D091-4A9A-8840-DF0AD24E460E}|QuanLyDangKyHocPhan\\QuanLyDangKyHocPhan.csproj|solutionrelative:quanlydangkyhocphan\\frmmonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmQLMonHoc.cs",
+              "DocumentMoniker": "C:\\Users\\storm\\Downloads\\QuanLyDangKyHocPhan\\QuanLyDangKyHocPhan\\QuanLyDangKyHocPhan\\frmQLMonHoc.cs",
+              "RelativeDocumentMoniker": "QuanLyDangKyHocPhan\\frmQLMonHoc.cs",
+              "ToolTip": "C:\\Users\\storm\\Downloads\\QuanLyDangKyHocPhan\\QuanLyDangKyHocPhan\\QuanLyDangKyHocPhan\\frmQLMonHoc.cs",
+              "RelativeToolTip": "QuanLyDangKyHocPhan\\frmQLMonHoc.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAmwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T15:41:05.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmSinhVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\storm\\Downloads\\QuanLyDangKyHocPhan\\QuanLyDangKyHocPhan\\QuanLyDangKyHocPhan\\frmSinhVien.cs",
+              "RelativeDocumentMoniker": "QuanLyDangKyHocPhan\\frmSinhVien.cs",
+              "ToolTip": "C:\\Users\\storm\\Downloads\\QuanLyDangKyHocPhan\\QuanLyDangKyHocPhan\\QuanLyDangKyHocPhan\\frmSinhVien.cs [Design]",
+              "RelativeToolTip": "QuanLyDangKyHocPhan\\frmSinhVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T15:42:07.612Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\storm\\Downloads\\QuanLyDangKyHocPhan\\QuanLyDangKyHocPhan\\QuanLyDangKyHocPhan\\Program.cs",
+              "RelativeDocumentMoniker": "QuanLyDangKyHocPhan\\Program.cs",
+              "ToolTip": "C:\\Users\\storm\\Downloads\\QuanLyDangKyHocPhan\\QuanLyDangKyHocPhan\\QuanLyDangKyHocPhan\\Program.cs",
+              "RelativeToolTip": "QuanLyDangKyHocPhan\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T15:43:28.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmQLMonHoc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\storm\\Downloads\\QuanLyDangKyHocPhan\\QuanLyDangKyHocPhan\\QuanLyDangKyHocPhan\\frmQLMonHoc.cs",
+              "RelativeDocumentMoniker": "QuanLyDangKyHocPhan\\frmQLMonHoc.cs",
+              "ToolTip": "C:\\Users\\storm\\Downloads\\QuanLyDangKyHocPhan\\QuanLyDangKyHocPhan\\QuanLyDangKyHocPhan\\frmQLMonHoc.cs [Design]",
+              "RelativeToolTip": "QuanLyDangKyHocPhan\\frmQLMonHoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T15:40:57.439Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmMonHoc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\storm\\Downloads\\QuanLyDangKyHocPhan\\QuanLyDangKyHocPhan\\QuanLyDangKyHocPhan\\frmMonHoc.cs",
+              "RelativeDocumentMoniker": "QuanLyDangKyHocPhan\\frmMonHoc.cs",
+              "ToolTip": "C:\\Users\\storm\\Downloads\\QuanLyDangKyHocPhan\\QuanLyDangKyHocPhan\\QuanLyDangKyHocPhan\\frmMonHoc.cs [Design]",
+              "RelativeToolTip": "QuanLyDangKyHocPhan\\frmMonHoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T15:38:44.997Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmSinhVien.cs",
+              "DocumentMoniker": "C:\\Users\\storm\\Downloads\\QuanLyDangKyHocPhan\\QuanLyDangKyHocPhan\\QuanLyDangKyHocPhan\\frmSinhVien.cs",
+              "RelativeDocumentMoniker": "QuanLyDangKyHocPhan\\frmSinhVien.cs",
+              "ToolTip": "C:\\Users\\storm\\Downloads\\QuanLyDangKyHocPhan\\QuanLyDangKyHocPhan\\QuanLyDangKyHocPhan\\frmSinhVien.cs",
+              "RelativeToolTip": "QuanLyDangKyHocPhan\\frmSinhVien.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T15:42:18.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmMonHoc.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\storm\\Downloads\\QuanLyDangKyHocPhan\\QuanLyDangKyHocPhan\\QuanLyDangKyHocPhan\\frmMonHoc.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyDangKyHocPhan\\frmMonHoc.Designer.cs",
+              "ToolTip": "C:\\Users\\storm\\Downloads\\QuanLyDangKyHocPhan\\QuanLyDangKyHocPhan\\QuanLyDangKyHocPhan\\frmMonHoc.Designer.cs",
+              "RelativeToolTip": "QuanLyDangKyHocPhan\\frmMonHoc.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAKkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T15:40:20.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmMonHoc.cs",
+              "DocumentMoniker": "C:\\Users\\storm\\Downloads\\QuanLyDangKyHocPhan\\QuanLyDangKyHocPhan\\QuanLyDangKyHocPhan\\frmMonHoc.cs",
+              "RelativeDocumentMoniker": "QuanLyDangKyHocPhan\\frmMonHoc.cs",
+              "ToolTip": "C:\\Users\\storm\\Downloads\\QuanLyDangKyHocPhan\\QuanLyDangKyHocPhan\\QuanLyDangKyHocPhan\\frmMonHoc.cs",
+              "RelativeToolTip": "QuanLyDangKyHocPhan\\frmMonHoc.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAANgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T15:39:55.98Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
